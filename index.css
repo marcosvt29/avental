@@ -7,14 +7,26 @@
 
 body {
     display: flex;
+    width: 100%;
     align-content: center;
     align-items: center;
     justify-content: center;
+    justify-items: center;
     background-color: azure;
         }
 
 .container{
-    background: black;
+    background: white;
+    max-width: 650px;
+    width: 100%;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 0px;
+    
 }
 
 h1 {
@@ -38,6 +50,7 @@ h1 {
 h2 {
     display: flex;
     max-width: 600px;
+    width: 100%;
     justify-content: center;
     text-align: center;
     align-items: center;
@@ -51,23 +64,29 @@ h2 {
 
 .vv {
     display: flex;
+    max-width: 600px;
+    width: 100%;
     justify-content: center;
+    justify-items: center;
     text-align: center;
     align-content: center;
     align-items: center;
-    margin: 10px;
-    padding: 10px;
+    margin: 15px;
+    padding: 5px;
     
     }
 
 .ve {
     display: flex;
+    max-width: 590px;
+    width: 100%
     justify-content: center;
+    justify-items: center;
     text-align: center;
     align-items: center;
     align-content: center;
-    margin: 10px;
-    padding: 10px;
+    margin: 15px;
+    padding: 5px;
     
     }
 

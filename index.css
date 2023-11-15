@@ -48,8 +48,6 @@ h1 {
 
 h2 {
     display: flex;
-    max-width: 600px;
-    width: 100%;
     justify-content: center;
     text-align: center;
     align-items: center;
@@ -64,33 +62,29 @@ h2 {
 
 .vv {
     display: flex;
-    max-width: 600px;
-    width: 100%;
+    justify-content: center;
     text-align: center;
     align-content: center;
     align-items: center;
     margin: 10px;
     padding: 10px;
-    height: auto;
+    
     }
 
 .ve {
     display: flex;
-    max-width: 600px;
-    width: 100%;
+    justify-content: center;
     text-align: center;
     align-items: center;
     align-content: center;
     margin: 10px;
     padding: 10px;
-    height: auto;
+    
     }
 
 
 .email {
     display: flex;
-    max-width: 600px;
-    width: 100%;
     margin: 10px;
     text-align: center;
     align-items: center;
@@ -105,12 +99,6 @@ h2 {
 }
 
 
-
-h3 {
-    height: 100px;
-    background: #jjjjjj;
-    padding: 15px;
-    }
 
 .divlink {
     background: #1B941B;

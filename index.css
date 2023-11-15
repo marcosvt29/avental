@@ -13,8 +13,7 @@ body {
     padding: 0 10px;
         }
 
-    
-}
+
 
 .container {
     display: flex;
@@ -121,19 +120,6 @@ h2 {
     background-color: #136913;
 }
 
-.content {
-    background: white;
-    border: .5px solid #CCCCCC;
-    width: 100%;
-    border-radius: 15px;
-    text-align: center;
-    padding: 10px 0px;
-    box-shadow: 4px 4px 10px #999999;
-    }
 
-.pro-image {
-    width: 100px;
-    height: 100px;
-    
-}
+
 

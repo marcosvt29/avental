@@ -29,10 +29,22 @@ body {
 
 .foto02 {
     display: flex;
+    border-image-width: auto;
+    padding: 10px;
     max-width: 600px;
+    width: 100%;
+    margin: 10px;
 }
 
 h1 {
+    display: flex;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin: 10px;
+    padding: 5px;
+    max-width: 600px;
     background: #0047AB;
     color: white;
     font-size: 18px;
@@ -42,9 +54,12 @@ h1 {
 
 
 h2 {margin: 0;
+    max-width: 600px;
+    width: 100%;
     top: auto;
     background: #E3FAFA;
-    padding: 5px;
+    padding: 8px;
+    margin: 5px;
     color: #333333;
     font-size: 15px;
     }
@@ -53,6 +68,11 @@ h2 {margin: 0;
     display: flex;
     max-width: 600px;
     width: 100%;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
     height: auto;
     }
 
@@ -60,11 +80,23 @@ h2 {margin: 0;
     display: flex;
     max-width: 600px;
     width: 100%;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    margin: 10px;
+    padding: 10px;
     height: auto;
     }
 
 
 .email {
+    display: flex;
+    max-width: 600px;
+    width: 100%;
+    margin: 10px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
     height: 40px;
     background: #0047AB;
     color: white;
@@ -92,7 +124,7 @@ h3 {
     text-align: center;
     padding: 10px 50px;
     display: flex;
-    border-radius: 600px;
+    border-radius: 500px;
     transition-duration: 0.2s;
     vertical-align: middle;
     text-decoration: none

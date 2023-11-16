@@ -51,7 +51,8 @@ h2 {
     max-width: 600px;
     width: 100%;
     background-image: url(image/ezgif.com-video-to-gif.gif);
-    background-position: center;
+    background-position:top;
+    background-size:cover;
     height: 500px;
     justify-content: center;
     justify-items: center;
@@ -66,7 +67,8 @@ h2 {
     max-width: 600px;
     width: 100%;
     background-image: url(image/moldea4.gif);
-    background-position: center;
+    background-position:top;
+    background-size:cover;
     height: 500px;
     justify-content: center;
     justify-items: center;

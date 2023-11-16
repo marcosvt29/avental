@@ -6,12 +6,7 @@
     }
 
 body {
-    justify-content: center;
-    justify-items: center;
-    text-align: center;
-    align-content: center;
-    align-items: center;
-    background: #2222;
+        background: #2222;
         }
 
 
@@ -49,7 +44,7 @@ h2 {
     font-size: 15px;
     }
 
-.vv {
+.av01 {
     display: flex;
     max-width: 600px;
     width: 100%;
@@ -63,7 +58,7 @@ h2 {
     
     }
 
-.ve {
+.av02 {
     display: flex;
     max-width: 600px;
     width: 100%

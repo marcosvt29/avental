@@ -52,10 +52,11 @@ h2 {
     width: 100%;
     background-image: url(image/ezgif.com-video-to-gif.gif);
     background-position: center;
-    height:500px;
+    height: 500px;
     justify-content: center;
     justify-items: center;
     text-align: center;
+    margin: 0px;
     
             
     }
@@ -72,7 +73,7 @@ h2 {
     text-align: center;
     align-items: center;
     align-content: center;
-    margin: auto;
+    margin: 0px;
     
     }
 
